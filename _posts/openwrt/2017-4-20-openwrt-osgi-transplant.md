@@ -1,8 +1,8 @@
 ---
-layout:post
-title:openwrt移植osgi
-category:openwrt
-tags:osgi java felix
+layout: post
+title: openwrt移植osgi
+category: openwrt
+tags: osgi java felix
 ---
 
 # osgi概念理解

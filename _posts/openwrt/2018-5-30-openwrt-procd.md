@@ -1,8 +1,8 @@
 ---
-layout:post
-title:openwrt procd 分析
-category:openwrt
-tags:procd
+layout: post
+title: openwrt procd 分析
+category: openwrt
+tags: procd
 ---
 # 介绍
 procd 是openwrt进程管理守护进程，它可以通过ubus跟踪从init脚本启动的进程，并且通过配置改变来让服务启动或重启。procd已经替换hotplug2，init，watchdog
